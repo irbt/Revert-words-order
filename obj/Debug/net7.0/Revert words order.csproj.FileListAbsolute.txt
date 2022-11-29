@@ -1,0 +1,15 @@
+C:\Mon_Code\Revert words order\bin\Debug\net7.0\Revert words order.exe
+C:\Mon_Code\Revert words order\bin\Debug\net7.0\Revert words order.deps.json
+C:\Mon_Code\Revert words order\bin\Debug\net7.0\Revert words order.runtimeconfig.json
+C:\Mon_Code\Revert words order\bin\Debug\net7.0\Revert words order.dll
+C:\Mon_Code\Revert words order\bin\Debug\net7.0\Revert words order.pdb
+C:\Mon_Code\Revert words order\obj\Debug\net7.0\Revert words order.csproj.AssemblyReference.cache
+C:\Mon_Code\Revert words order\obj\Debug\net7.0\Revert words order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mon_Code\Revert words order\obj\Debug\net7.0\Revert words order.AssemblyInfoInputs.cache
+C:\Mon_Code\Revert words order\obj\Debug\net7.0\Revert words order.AssemblyInfo.cs
+C:\Mon_Code\Revert words order\obj\Debug\net7.0\Revert words order.csproj.CoreCompileInputs.cache
+C:\Mon_Code\Revert words order\obj\Debug\net7.0\Revert words order.dll
+C:\Mon_Code\Revert words order\obj\Debug\net7.0\refint\Revert words order.dll
+C:\Mon_Code\Revert words order\obj\Debug\net7.0\Revert words order.pdb
+C:\Mon_Code\Revert words order\obj\Debug\net7.0\Revert words order.genruntimeconfig.cache
+C:\Mon_Code\Revert words order\obj\Debug\net7.0\ref\Revert words order.dll
